@@ -1,0 +1,10 @@
+[
+  { "name": "Python", "image": "assets/skills/python.png" },
+  { "name": "Django", "image": "assets/skills/django.png" },
+  { "name": "Javascript", "image": "assets/skills/javascript.png" },
+  { "name": "HTML", "image": "assets/skills/html.png" },
+  { "name": "CSS", "image": "assets/skills/css.png" },
+  { "name": "VB.NET", "image": "assets/skills/vb.png" },
+  { "name": "Github", "image": "assets/skills/github2.png" },
+  { "name": "Arduino", "image": "assets/skills/arduino.png" }
+]
