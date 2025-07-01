@@ -1,22 +1,22 @@
 [
   {
     "title": "Ontario Schools Cricket Association Essay Winner",
-    "imageSrc": "assets/awards/EssayAward.png", 
+    "imageSrc": "/assets/awards/EssayAward.png", 
     "description": "I won an essay competition held by the Ontario Schools Cricket Association, where I wrote about how cricket encourages teamwork, leadership, and community in Canada. The experience helped me grow as a writer and learn more about cricket."
   },
   {
     "title": "Highest Academic Award (96.3%)",
-    "imageSrc": "assets/awards/AcademicAward.png",
+    "imageSrc": "/assets/awards/AcademicAward.png",
     "description": "I was honoured to receive my school’s highest academic award with a 96.3% average, the result of steady effort and support from great teachers and peers. The journey taught me the value of consistency, curiosity, and using challenges as a chance to improve."
   },
   {
     "title": "NCRTA Badminton Tournament Winner",
-    "imageSrc": "assets/awards/NCRTA.png",
+    "imageSrc": "/assets/awards/NCRTA.png",
     "description": "Winning the NCRTA Badminton Tournament was a pleasing experience and came after lots of practice and learning from mistakes. it taught me the improtance of hard work, perseverance, and collaboration through clear communication."
   },
   {
     "title": "Leadership in STEM Training",
-    "imageSrc": "assets/awards/STEMSkill.png",
+    "imageSrc": "/assets/awards/STEMSkill.png",
     "description": "Participating in a Leadership in STEM course at Carleton University opened my eyes to the real problem-solving process that many engineers use. I worked with other students passionate about STEM while building some cool projects."
   }
 ]

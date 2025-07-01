@@ -13,7 +13,7 @@ export const Extracurriculars = () => {
     </div>
     <ul className={styles.aboutItems}>
       <li className={styles.aboutItem}>
-        <img className={styles.infoItem} src="assets/extracurriculars/mathlink.png" alt="Math Icon" />
+        <img className={styles.infoItem} src="/assets/extracurriculars/mathlink.png" alt="Math Icon" />
         <div className={styles.aboutItemsText}>
           <h3>Mathlink</h3>
           <p className={styles.randomLine}>
@@ -25,7 +25,7 @@ export const Extracurriculars = () => {
         </div>
       </li>
       <li className={styles.aboutItem}>
-        <img className={styles.infoItem} src="assets/extracurriculars/band.png" alt="Band Icon" />
+        <img className={styles.infoItem} src="/assets/extracurriculars/band.png" alt="Band Icon" />
         <div className={styles.aboutItemsText}>
           <h3>Concert Band Member</h3>
           <p className={styles.randomLine}>
@@ -37,7 +37,7 @@ export const Extracurriculars = () => {
         </div>
       </li>
       <li className={styles.aboutItem}>
-        <img className={styles.infoItem} src="assets/extracurriculars/badmintonicon.png" alt="Badminton Icon" />
+        <img className={styles.infoItem} src="/assets/extracurriculars/badmintonicon.png" alt="Badminton Icon" />
         <div className={styles.aboutItemsText}>
           <h3>Badminton</h3>
           <p className={styles.randomLine}>
@@ -49,7 +49,7 @@ export const Extracurriculars = () => {
         </div>
       </li>
       <li className={styles.aboutItem}>
-        <img className={styles.infoItem} src="assets/extracurriculars/oyc.png" alt="OYC Icon" />
+        <img className={styles.infoItem} src="/assets/extracurriculars/oyc.png" alt="OYC Icon" />
         <div className={styles.aboutItemsText}>
           <h3>Ottawa Youth Council Member</h3>
           <p className={styles.randomLine}>
@@ -61,7 +61,7 @@ export const Extracurriculars = () => {
         </div>
       </li>
       <li className={styles.aboutItem}>
-        <img className={styles.infoItem} src="assets/extracurriculars/crosscountry.png" alt="Cross Country Icon" />
+        <img className={styles.infoItem} src="/assets/extracurriculars/crosscountry.png" alt="Cross Country Icon" />
         <div className={styles.aboutItemsText}>
           <h3>Cross Country</h3>
           <p className={styles.randomLine}>
@@ -73,7 +73,7 @@ export const Extracurriculars = () => {
         </div>
       </li>
       <li className={styles.aboutItem}>
-        <img className={styles.infoItem} src="assets/extracurriculars/lifeguarding.png" alt="Lifeguarding Icon" />
+        <img className={styles.infoItem} src="/assets/extracurriculars/lifeguarding.png" alt="Lifeguarding Icon" />
         <div className={styles.aboutItemsText}>
           <h3>Lifeguarding Training</h3>
           <p className={styles.randomLine}>

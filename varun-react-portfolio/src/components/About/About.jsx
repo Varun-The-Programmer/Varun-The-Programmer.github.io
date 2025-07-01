@@ -13,7 +13,7 @@ export const About = () => {
     </div>
     <ul className={styles.aboutItems}>
       <li className={styles.aboutItem}>
-        <img className={styles.infoItem} src="assets/about/schoolIcon.png" alt="School Icon" />
+        <img className={styles.infoItem} src="/assets/about/schoolIcon.png" alt="School Icon" />
         <div className={styles.aboutItemsText}>
           <h3>High-school Student</h3>
           <p className={styles.randomLine}>
@@ -22,7 +22,7 @@ export const About = () => {
         </div>
       </li>
       <li className={styles.aboutItem}>
-        <img className={styles.infoItem} src="assets/about/programmingIcon.png" alt="Programming Icon" />
+        <img className={styles.infoItem} src="/assets/about/programmingIcon.png" alt="Programming Icon" />
         <div className={styles.aboutItemsText}>
           <h3>Competitive Programmer</h3>
           <p>
@@ -31,7 +31,7 @@ export const About = () => {
         </div>
       </li>
       <li className={styles.aboutItem}>
-        <img className={styles.infoItem} src="assets/about/techIcon.png" alt="Tech Icon" />
+        <img className={styles.infoItem} src="/assets/about/techIcon.png" alt="Tech Icon" />
         <div className={styles.aboutItemsText}>
           <h3>Tech Enthusiasist</h3>
           <p>
@@ -40,7 +40,7 @@ export const About = () => {
         </div>
       </li>
       <li className={styles.aboutItem}>
-        <img className={styles.infoItem} src="assets/about/badmintonicon.png" alt="Badminton Icon" />
+        <img className={styles.infoItem} src="/assets/about/badmintonicon.png" alt="Badminton Icon" />
         <div className={styles.aboutItemsText}>
           <h3>Badminton Lover</h3>
           <p>
@@ -50,7 +50,7 @@ export const About = () => {
         </div>
       </li>
       <li className={styles.aboutItem}>
-        <img className={styles.infoItem} src="assets/about/readingIcon.png" alt="Reading Icon" />
+        <img className={styles.infoItem} src="/assets/about/readingIcon.png" alt="Reading Icon" />
         <div className={styles.aboutItemsText}>
           <h3>Avid Reader</h3>
           <p>

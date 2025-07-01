@@ -1,7 +1,7 @@
 [
   {
     "title": "Reaction Speed Game",
-    "imageSrc": "assets/projects/reactionspeedgame.jpg",
+    "imageSrc": "/assets/projects/reactionspeedgame.jpg",
     "description": "This is a quick game I made using the ELEGOO UNO R3 Kit.",
     "skills": ["Arduino", "Github", "C++"],
     "demo": "https://drive.google.com/drive/folders/1IME8uF1ObyxNmPHWU5W1Xz1UyGPBs6Jb?usp=drive_link",
@@ -9,7 +9,7 @@
   },
   {
     "title": "Sonar Scanner",
-    "imageSrc": "assets/projects/sonarscanner.jpg",
+    "imageSrc": "/assets/projects/sonarscanner.jpg",
     "description": "This is a project made to learn how ultrasonic sensors work.",
     "skills": ["Arduino", "Github", "C++"],
     "demo": "https://drive.google.com/drive/folders/1ofGumUTRcT7u9K9duW3ogAPlYbpGmQCv?usp=drive_link",
@@ -17,7 +17,7 @@
   },
   {
     "title": "Tetris",
-    "imageSrc": "assets/projects/Tetris.png",
+    "imageSrc": "/assets/projects/Tetris.png",
     "description": "This was one of the first games I recreated using Python and Pygame.",
     "skills": ["Python", "Pygame", "Github"],
     "demo": "https://drive.google.com/drive/folders/1yrGI4rOuNjv89yBUUZN3CgoBDcV7MrwE?usp=drive_link",
@@ -25,7 +25,7 @@
   },
   {
     "title": "BizConnect",
-    "imageSrc": "assets/projects/BizConnect.png",
+    "imageSrc": "/assets/projects/BizConnect.png",
     "description": "This is a prototype website I made for a hackathon with a some friends.",
     "skills": ["HTML", "CSS", "JavaScript"],
     "demo": "https://drive.google.com/drive/folders/1b1yPnd22Y_VT62SBQyUC0hk16TrtdWUk?usp=sharing",

@@ -5,7 +5,7 @@
     "startDate": "Mar 10, 2025",
     "endDate": "Mar 16, 2025",
     "experiences": ["Helped design website and create UI components."],
-    "imageSrc": "assets/history/frontend.png"
+    "imageSrc": "/assets/history/frontend.png"
   },
   {
     "role": "Engineering Outreach Volunteer",
@@ -13,7 +13,7 @@
     "startDate": "June 30, 2025",
     "endDate": "July 4, 2025",
     "experiences": ["Helped students in STEM while mentoring and building leadership skills."],
-    "imageSrc": "assets/history/volunteer.png"
+    "imageSrc": "/assets/history/volunteer.png"
   },
   {
     "role": "After School Mathematics Tutor",
@@ -21,6 +21,6 @@
     "startDate": "Sept 2023",
     "endDate": "Present",
     "experiences": ["Helped improve students' math skills."],
-    "imageSrc": "assets/history/math.png"
+    "imageSrc": "/assets/history/math.png"
   }
 ]
