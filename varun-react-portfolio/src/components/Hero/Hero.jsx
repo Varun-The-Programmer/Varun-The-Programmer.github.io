@@ -1,7 +1,6 @@
 import React from "react";
 
 import styles from "./Hero.module.css";
-import { getImageUrl } from "../../utils";
 
 export const Hero = () => {
   return (
@@ -16,7 +15,7 @@ export const Hero = () => {
         </a>
       </div>
       <img
-        src="assets/hero/heroImage.png"
+        src="/assets/hero/heroImage.png"
         alt="Hero image of me"
         className={styles.heroImg}
       />
