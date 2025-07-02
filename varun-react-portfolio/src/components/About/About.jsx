@@ -31,7 +31,7 @@ export const About = () => {
         </div>
       </li>
       <li className={styles.aboutItem}>
-        <img className={styles.infoItem} src="/assets/about/techicon.png" alt="Tech Icon" />
+        <img className={styles.infoItem} src="/assets/about/techIcon.png" alt="Tech Icon" />
         <div className={styles.aboutItemsText}>
           <h3>Tech Enthusiasist</h3>
           <p>
