@@ -10,7 +10,7 @@ export const Hero = () => {
         <p className={styles.description}>
           I'm a high school student who loves programming and technology. I've made many games and projects, always working to improve my coding and electronics skills. 
         </p>
-        <a href="#" className={styles.resumeBtn}>
+        <a href="/assets/hero/Resume - Varun Gokul.pdf" target="_blank" className={styles.resumeBtn}>
           Download Resume
         </a>
       </div>
