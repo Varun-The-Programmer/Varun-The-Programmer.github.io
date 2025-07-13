@@ -30,5 +30,21 @@
     "skills": ["HTML", "CSS", "JavaScript"],
     "demo": "https://drive.google.com/drive/folders/1b1yPnd22Y_VT62SBQyUC0hk16TrtdWUk?usp=sharing",
     "source": "https://github.com/Varun-The-Programmer/BizConnect-MEGA-Hackathon-Project-"
+  },
+  {
+    "title": "Pomodoro Timer",
+    "imageSrc": "/assets/projects/Pomodoro.png",
+    "description": "This is a simple recreation of the Pomofocus.io app using Python and Pygame.",
+    "skills": ["Python", "Pygame", "Github"],
+    "demo": "https://drive.google.com/drive/folders/1TTIPah-8KVI1qylWOCE-K2_8vds2Jvz3?usp=sharing",
+    "source": "https://github.com/Varun-The-Programmer/PomodoroTimer"
+  },
+  {
+    "title": "Ultrasonic Distance Measurer",
+    "imageSrc": "/assets/projects/ultrasonicdistancemeasurer.jpg",
+    "description": "This is a  modified version of my Sonar Scanner.",
+    "skills": ["Arduino", "Github", "C++"],
+    "demo": "https://drive.google.com/drive/folders/11-d38eTmHcSdMaUOrFDn_h6MYZUKzuTM?usp=sharing",
+    "source": "https://github.com/Varun-The-Programmer/Ultrasonic-Distance-Measurer"
   }
 ]

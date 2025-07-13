@@ -18,10 +18,7 @@
 .projects {
   margin-top: 37px;
   display: flex;
-  flex-direction: row;
   flex-wrap: wrap;
-  align-items: left;
-  justify-content: space-between;
-  gap: 10px;
-  width: 100%;
+  gap: 27px;
+  justify-content: flex-start;
 }
