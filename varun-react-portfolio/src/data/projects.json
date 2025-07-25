@@ -46,5 +46,13 @@
     "skills": ["Arduino", "Github", "C++"],
     "demo": "https://drive.google.com/drive/folders/11-d38eTmHcSdMaUOrFDn_h6MYZUKzuTM?usp=sharing",
     "source": "https://github.com/Varun-The-Programmer/Ultrasonic-Distance-Measurer"
+  },
+  {
+    "title": "Weather API App (PyQt5)",
+    "imageSrc": "/assets/projects/Weather.png",
+    "description": "This is a  weather app that collects weather data from around the world using an API.",
+    "skills": ["Python", "PyQt5", "Github"],
+    "demo": "https://drive.google.com/drive/folders/1RIKE6KqGwkhSk1x8Ohkoxokmnx39zE0J?usp=drive_link",
+    "source": "https://github.com/Varun-The-Programmer/WeatherAPIApp"
   }
 ]
