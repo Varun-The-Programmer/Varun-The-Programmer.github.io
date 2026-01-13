@@ -1,12 +1,12 @@
 [
   {
-    "title": "Reaction Speed Game",
-    "imageSrc": "/assets/projects/reactionspeedgame.jpg",
-    "description": "This is a quick game I made using the ELEGOO UNO R3 Kit.",
-    "skills": ["Arduino", "Github", "C++"],
-    "demo": "https://drive.google.com/drive/folders/1IME8uF1ObyxNmPHWU5W1Xz1UyGPBs6Jb?usp=drive_link",
-    "source": "https://github.com/Varun-The-Programmer/Reaction-Speed-Game"
-  },
+  "title": "Momentum",
+  "imageSrc": "/assets/projects/Momentum.png",
+  "description": "Built a full-stack task management web app with authentication, task prioritization, and productivity tools like a Pomodoro timer. Designed REST APIs and a responsive UI, with a focus on clean architecture and scalability.",
+  "skills": ["Next.js", "React", "Prisma", "SQLite", "REST APIs", "Authentication"],
+  "demo": "https://drive.google.com/file/d/1Hd8yLOIRA0IEeg4rST-xAOLPyKXWpM9O/view?usp=sharing",
+  "source": "https://github.com/Varun-The-Programmer/Momentum"
+},
   {
     "title": "Sonar Scanner",
     "imageSrc": "/assets/projects/sonarscanner.jpg",
@@ -26,10 +26,26 @@
   {
     "title": "BizConnect",
     "imageSrc": "/assets/projects/BizConnect.png",
-    "description": "This is a prototype website I made for a hackathon with a some friends.",
+    "description": "Developed a fully functional prototype website for a hackathon with some friends, focused on connecting local businesses through innovative tech.",
     "skills": ["HTML", "CSS", "JavaScript"],
     "demo": "https://drive.google.com/drive/folders/1b1yPnd22Y_VT62SBQyUC0hk16TrtdWUk?usp=sharing",
     "source": "https://github.com/Varun-The-Programmer/BizConnect-MEGA-Hackathon-Project-"
+  },
+  {
+    "title": "Reaction Speed Game",
+    "imageSrc": "/assets/projects/reactionspeedgame.jpg",
+    "description": "This is a quick game I made using the ELEGOO UNO R3 Kit.",
+    "skills": ["Arduino", "Github", "C++"],
+    "demo": "https://drive.google.com/drive/folders/1IME8uF1ObyxNmPHWU5W1Xz1UyGPBs6Jb?usp=drive_link",
+    "source": "https://github.com/Varun-The-Programmer/Reaction-Speed-Game"
+  },
+  {
+    "title": "Weather API App (PyQt5)",
+    "imageSrc": "/assets/projects/Weather.png",
+    "description": "Developed a weather app that retrieves and displays global weather data using a public API, helping me to learn more about APIs and Python's PyQt5 Module",
+    "skills": ["Python", "PyQt5", "Github"],
+    "demo": "https://drive.google.com/drive/folders/1RIKE6KqGwkhSk1x8Ohkoxokmnx39zE0J?usp=drive_link",
+    "source": "https://github.com/Varun-The-Programmer/WeatherAPIApp"
   },
   {
     "title": "Pomodoro Timer",
@@ -46,13 +62,5 @@
     "skills": ["Arduino", "Github", "C++"],
     "demo": "https://drive.google.com/drive/folders/11-d38eTmHcSdMaUOrFDn_h6MYZUKzuTM?usp=sharing",
     "source": "https://github.com/Varun-The-Programmer/Ultrasonic-Distance-Measurer"
-  },
-  {
-    "title": "Weather API App (PyQt5)",
-    "imageSrc": "/assets/projects/Weather.png",
-    "description": "This is a  weather app that collects weather data from around the world using an API.",
-    "skills": ["Python", "PyQt5", "Github"],
-    "demo": "https://drive.google.com/drive/folders/1RIKE6KqGwkhSk1x8Ohkoxokmnx39zE0J?usp=drive_link",
-    "source": "https://github.com/Varun-The-Programmer/WeatherAPIApp"
   }
 ]
