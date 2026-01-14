@@ -2,26 +2,10 @@
   {
   "title": "Momentum",
   "imageSrc": "/assets/projects/Momentum.png",
-  "description": "Built a full-stack task management web app with authentication, task prioritization, and productivity tools like a Pomodoro timer. Designed REST APIs and a responsive UI, with a focus on clean architecture and scalability.",
+  "description": "Full-stack task manager with authentication, task prioritization, and a Pomodoro timer. Built REST APIs and a responsive React UI, emphasizing clean architecture and scalable design.",
   "skills": ["Next.js", "React", "Prisma", "SQLite", "REST APIs", "Authentication"],
   "demo": "https://drive.google.com/file/d/1Hd8yLOIRA0IEeg4rST-xAOLPyKXWpM9O/view?usp=sharing",
   "source": "https://github.com/Varun-The-Programmer/Momentum"
-},
-  {
-    "title": "Sonar Scanner",
-    "imageSrc": "/assets/projects/sonarscanner.jpg",
-    "description": "This is a project made to learn how ultrasonic sensors work.",
-    "skills": ["Arduino", "Github", "C++"],
-    "demo": "https://drive.google.com/drive/folders/1ofGumUTRcT7u9K9duW3ogAPlYbpGmQCv?usp=drive_link",
-    "source": "https://github.com/Varun-The-Programmer/Sonar-Scanner"
-  },
-  {
-    "title": "Tetris",
-    "imageSrc": "/assets/projects/Tetris.png",
-    "description": "This was one of the first games I recreated using Python and Pygame.",
-    "skills": ["Python", "Pygame", "Github"],
-    "demo": "https://drive.google.com/drive/folders/1yrGI4rOuNjv89yBUUZN3CgoBDcV7MrwE?usp=drive_link",
-    "source": "https://github.com/Varun-The-Programmer/Tetris"
   },
   {
     "title": "BizConnect",
@@ -32,20 +16,36 @@
     "source": "https://github.com/Varun-The-Programmer/BizConnect-MEGA-Hackathon-Project-"
   },
   {
-    "title": "Reaction Speed Game",
-    "imageSrc": "/assets/projects/reactionspeedgame.jpg",
-    "description": "This is a quick game I made using the ELEGOO UNO R3 Kit.",
-    "skills": ["Arduino", "Github", "C++"],
-    "demo": "https://drive.google.com/drive/folders/1IME8uF1ObyxNmPHWU5W1Xz1UyGPBs6Jb?usp=drive_link",
-    "source": "https://github.com/Varun-The-Programmer/Reaction-Speed-Game"
-  },
-  {
     "title": "Weather API App (PyQt5)",
     "imageSrc": "/assets/projects/Weather.png",
     "description": "Developed a weather app that retrieves and displays global weather data using a public API, helping me to learn more about APIs and Python's PyQt5 Module",
     "skills": ["Python", "PyQt5", "Github"],
     "demo": "https://drive.google.com/drive/folders/1RIKE6KqGwkhSk1x8Ohkoxokmnx39zE0J?usp=drive_link",
     "source": "https://github.com/Varun-The-Programmer/WeatherAPIApp"
+  },
+  {
+    "title": "Tetris",
+    "imageSrc": "/assets/projects/Tetris.png",
+    "description": "This was one of the first games I recreated using Python and Pygame. I used it to practice programming, work with graphics and input, and explore game logic.",
+    "skills": ["Python", "Pygame", "Github"],
+    "demo": "https://drive.google.com/drive/folders/1yrGI4rOuNjv89yBUUZN3CgoBDcV7MrwE?usp=drive_link",
+    "source": "https://github.com/Varun-The-Programmer/Tetris"
+  },
+  {
+    "title": "Sonar Scanner",
+    "imageSrc": "/assets/projects/sonarscanner.jpg",
+    "description": "This is a project made to learn how ultrasonic sensors work.",
+    "skills": ["Arduino", "Github", "C++"],
+    "demo": "https://drive.google.com/drive/folders/1ofGumUTRcT7u9K9duW3ogAPlYbpGmQCv?usp=drive_link",
+    "source": "https://github.com/Varun-The-Programmer/Sonar-Scanner"
+  },
+  {
+    "title": "Reaction Speed Game",
+    "imageSrc": "/assets/projects/reactionspeedgame.jpg",
+    "description": "This is a quick game I made using the ELEGOO UNO R3 Kit.",
+    "skills": ["Arduino", "Github", "C++"],
+    "demo": "https://drive.google.com/drive/folders/1IME8uF1ObyxNmPHWU5W1Xz1UyGPBs6Jb?usp=drive_link",
+    "source": "https://github.com/Varun-The-Programmer/Reaction-Speed-Game"
   },
   {
     "title": "Pomodoro Timer",
