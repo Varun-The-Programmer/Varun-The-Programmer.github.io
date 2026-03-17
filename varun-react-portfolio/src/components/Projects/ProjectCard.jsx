@@ -13,7 +13,8 @@ export const ProjectCard = ({
         alt={`Image of ${title}`}
         className={styles.image}
       />
-      <h3 className={styles.title}>{title}</h3>
+      <div className={styles.info}>
+        <h3 className={styles.title}>{title}</h3>
       <p className={styles.description}>{description}</p>
       <ul className={styles.skills}>
         {skills.map((skill, id) => {
@@ -31,6 +32,7 @@ export const ProjectCard = ({
         <a href={source} target="_blank" className={styles.link}>
           Source
         </a>
+      </div>
       </div>
     </div>
   );
