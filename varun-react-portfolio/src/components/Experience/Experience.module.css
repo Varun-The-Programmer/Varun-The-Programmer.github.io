@@ -2,80 +2,25 @@
 
 .container {
   color: var(--color-text);
-  margin-top: 79px;
+  margin-top: 100px;
   margin-left: 10%;
   margin-right: 10%;
 }
 
 .title {
   color: var(--color-text);
-  font-size: 35px;
+  font-size: var(--fs-section-title);
   font-weight: 700;
   letter-spacing: 1.75px;
   text-transform: uppercase;
-}
-
-.content {
-  display: flex;
-  align-items: flex-start;
-  flex-direction: row;
-  margin-left: -3vw;
-  justify-content: space-evenly;
-  margin-top: 20px;
-}
-
-.skills {
-  width: 45%;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 37px;
-}
-
-.skill:hover {
-  transform: scale(1.05);
-  transition: transform 0.3s ease-out;
-}
-
-.skill {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 11px;
-  margin: 0;
-  padding: 0;
-  flex: 0 1 calc(25% - 10px); 
-  box-sizing: border-box;
-  margin-top: 10px;
-  font-family: Roboto;
-  margin-bottom: 8vh;
-}
-
-.skillImageContainer {
-  background-color: var(--color-secondary);
-  border-radius: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 120px;
-  height: 120px;
-  object-fit: cover;
-}
-
-.skillImageContainer img {
-  width: 75px;
-}
-
-.skill p {
-  font-size: 25px;
-  font-family: var(--font-roboto);
-  font-weight: 500;
+  margin-bottom: 40px;
 }
 
 .history {
-  width: 45%;
-  display: flex;
-  flex-direction: column;
-  gap: 40px;
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 30px;
 }
 
 .historyItem {
@@ -83,12 +28,9 @@
   flex-direction: row;
   align-items: center;
   gap: 17px;
-  background: #19376d;
-  background: linear-gradient(90deg, #19376d 0%, rgba(25, 55, 109, 0) 100%);
-  border-radius: 10px;
-  padding: 24px;
+  background: var(--color-secondary);
   border-radius: 20px;
-  background-size: 0 100%;
+  padding: 24px;
 }
 
 .historyItem img {
@@ -96,50 +38,37 @@
 }
 
 .historyItem:hover {
-  background-size: 100% 100%;
-  background-repeat: no-repeat;
-  transition: 0.4s;
+  background: var(--color-primary);
 }
-
 
 .historyItemDetails {
   font-family: var(--font-roboto);
-  font-size: 10px;
 }
 
 .historyItemDetails h3 {
-  font-size: 30px;
+  font-size: var(--fs-card-title);
   font-weight: 600;
 }
 
 .historyItemDetails p {
-  font-size: 20px;
-  font-weight: 300;
+  font-size: var(--fs-meta);
+  font-weight: 500;
+  opacity: 0.8;
+  margin-top: 4px;
 }
 
 .historyItemDetails ul {
-  margin-top: 6px;
+  margin-top: 12px;
   list-style-position: inside;
-  font-size: 20px;
+  font-size: var(--fs-body);
+  line-height: 1.5;
   list-style-type: none;
   margin-left: 17px;
 }
 
-@media screen and (max-width: 830px) {
-  .content {
-    flex-direction: column;
-    align-items: center;
-    gap: 34px;
-  }
-
-  .skills {
-    width: 100%;
-    flex-direction: row;
-    justify-content: center;
-  }
-
+@media screen and (max-width: 1100px) {
   .history {
-    width: 100%;
-    gap: 9px;
+    grid-template-columns: 1fr;
+    gap: 20px;
   }
 }

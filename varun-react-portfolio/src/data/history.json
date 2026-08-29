@@ -1,17 +1,25 @@
 [
   {
+    "role": "Future Tech High School Intern",
+    "organisation": "Nokia",
+    "startDate": "July 6, 2026",
+    "endDate": "August 21, 2026",
+    "experiences": ["Developed test cases to test end-to-end functionality Nokia's Migration Tool using Playwright"],
+    "imageSrc": "/assets/history/nokia.png"
+  },
+  {
     "role": "Software Member (FRC Robotics)",
     "organisation": "Spark Youth Robotics Club (Team 8729)",
-    "startDate": "July 10, 2025",
-    "endDate": "Present",
+    "startDate": "July 2025",
+    "endDate": "June 2026",
     "experiences": ["Programmed subsystems and commands for intake, outtake, and vision for 2026 robot (FRC REBUILT CHALLENGE)"],
     "imageSrc": "/assets/history/frc.png"
   },
   {
     "role": "FLL Explore Mentor",
     "organisation": "Spark Youth Robotics Club (Team 8729)",
-    "startDate": "July 10, 2025",
-    "endDate": "Present",
+    "startDate": "September 2025",
+    "endDate": "December 2025",
     "experiences": ["Taught coding and robotics to kids aged 6 to 10 using fun interactive activites with the help of LEGO"],
     "imageSrc": "/assets/history/fll.png"
   },
@@ -26,8 +34,8 @@
   {
     "role": "After School Tutor",
     "organisation": "Holy Trinity Catholic High School",
-    "startDate": "Sept 2023",
-    "endDate": "Present",
+    "startDate": "September 2023",
+    "endDate": "June 2026",
     "experiences": ["Helped create lessons to provide personalized assistance in math and science (Grades 7 - 10)."],
     "imageSrc": "/assets/history/math.png"
   }

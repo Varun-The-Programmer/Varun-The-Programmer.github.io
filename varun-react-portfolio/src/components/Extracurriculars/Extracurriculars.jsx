@@ -17,10 +17,22 @@ export const Extracurriculars = () => {
         <div className={styles.aboutItemsText}>
           <h3>Mathlink</h3>
           <p className={styles.randomLine}>
-          September 2024 - Present
+          September 2024 - April 2026
           </p>
           <p className={styles.randomLine}>
-          Mathlink is a math enrichment program at Carleton University for higher level maths. 
+          Mathlink is a math enrichment program at Carleton University for higher level maths. Helped to imporve my critical thinking skills and taught me to always bring a critical lens to any problem.
+          </p>
+        </div>
+      </li>
+      <li className={styles.aboutItem}>
+        <img className={styles.infoItem} src="/assets/extracurriculars/lifeguarding.png" alt="Lifeguarding Icon" />
+        <div className={styles.aboutItemsText}>
+          <h3>Trained Lifeguard</h3>
+          <p className={styles.randomLine}>
+          January 2025 - June 2026
+          </p>
+          <p className={styles.randomLine}>
+          Completed several consecutive course (Bronze Medallion, Bronze Cross, Standard First Aid, Emergency First Aid, National Lifeguard), mastering emergency-response skills and clear team communication under stressful conditions.
           </p>
         </div>
       </li>
@@ -32,7 +44,7 @@ export const Extracurriculars = () => {
           September 2023 - June 2025
           </p>
           <p className={styles.randomLine}>
-          I was a member of the repertoire band at my school where I played the flute. 
+          Played flute in the school repertoire band, rehearsing arrangements and collaborating closely other musicians to prepare for seasonal concerts. 
           </p>
         </div>
       </li>
@@ -44,7 +56,7 @@ export const Extracurriculars = () => {
           September 2023 - Present
           </p>
           <p className={styles.randomLine}>
-          I have been training badminton at an academy and playing recreationally. I also participate in many tournaments. I was also part of my school team.
+          Trained professionally with a club for two years. Participated in several local torunaments and was part of the school team for three consecutive years, where I learned to work better with other people.
           </p>
         </div>
       </li>
@@ -56,7 +68,7 @@ export const Extracurriculars = () => {
           May 2025 - Present
           </p>
           <p className={styles.randomLine}>
-          As a member, I participate in leadership events and other workshops to improve Ottawa with experts in the field and other youth.
+          Participated in leadership events and other workshops to improve Ottawa with experts in the field and other youth.
           </p>
         </div>
       </li>
@@ -65,22 +77,10 @@ export const Extracurriculars = () => {
         <div className={styles.aboutItemsText}>
           <h3>Cross Country</h3>
           <p className={styles.randomLine}>
-          September 2024 - November 2024
+          September 2024 - November 2025
           </p>
           <p className={styles.randomLine}>
-          I was on the school cross country team, where I participated in meets. 
-          </p>
-        </div>
-      </li>
-      <li className={styles.aboutItem}>
-        <img className={styles.infoItem} src="/assets/extracurriculars/lifeguarding.png" alt="Lifeguarding Icon" />
-        <div className={styles.aboutItemsText}>
-          <h3>Lifeguarding Training</h3>
-          <p className={styles.randomLine}>
-          January 2025 - Present
-          </p>
-          <p className={styles.randomLine}>
-          I am training to be a lifeguard and have completed the first two courses. 
+          Was on the school cross country team for two consecutive years where I trained multiple times a week after school to participate in local school meets.
           </p>
         </div>
       </li>

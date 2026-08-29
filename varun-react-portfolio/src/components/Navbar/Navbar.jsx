@@ -22,10 +22,13 @@ export const Navbar = () => {
           <a href="#about">About</a>
         </li>
         <li>
+          <a href="#skills">Skills</a>
+        </li>
+        <li>
           <a href="#experience">Experience</a>
         </li>
         <li>
-          <a href="#awards">Awards & Skills</a>
+          <a href="#awards">Awards</a>
         </li>
         <li>
           <a href="#extracurriculars">Extracurriculars</a>

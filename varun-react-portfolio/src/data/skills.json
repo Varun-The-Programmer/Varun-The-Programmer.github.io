@@ -1,10 +1,10 @@
 [
-  { "name": "Python", "image": "/assets/skills/python.png" },
-  { "name": "Django", "image": "/assets/skills/django.png" },
-  { "name": "Javascript", "image": "/assets/skills/javascript.png" },
-  { "name": "HTML", "image": "/assets/skills/html.png" },
-  { "name": "CSS", "image": "/assets/skills/css.png" },
-  { "name": "VB.NET", "image": "/assets/skills/vb.png" },
-  { "name": "Github", "image": "/assets/skills/github2.png" },
-  { "name": "Arduino", "image": "/assets/skills/arduino.png" }
+  { "name": "Python", "image": "/assets/skills/python.png", "category": "Languages" },
+  { "name": "JavaScript", "image": "/assets/skills/javascript.png", "category": "Languages" },
+  { "name": "HTML", "image": "/assets/skills/html.png", "category": "Languages" },
+  { "name": "CSS", "image": "/assets/skills/css.png", "category": "Languages" },
+  { "name": "VB.NET", "image": "/assets/skills/vb.png", "category": "Languages" },
+  { "name": "Django", "image": "/assets/skills/django.png", "category": "Frameworks & Tools" },
+  { "name": "Git & GitHub", "image": "/assets/skills/github2.png", "category": "Frameworks & Tools" },
+  { "name": "Arduino", "image": "/assets/skills/arduino.png", "category": "Frameworks & Tools" }
 ]

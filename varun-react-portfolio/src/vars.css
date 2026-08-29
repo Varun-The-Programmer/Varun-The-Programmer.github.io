@@ -8,4 +8,10 @@
 
   /* Fonts */
   --font-roboto: "Roboto";
+
+  --fs-section-title: 36px;
+  --fs-card-title: 22px;
+  --fs-body: 17px;
+  --fs-meta: 14px;
+  --fs-ui: 18px; 
 }

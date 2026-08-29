@@ -3,71 +3,54 @@
 .container {
   display: flex;
   flex-direction: column;
-  border-radius: 10px;
-  background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
-  box-shadow: 0 16px 14px 0 #04152d;
-  padding: 18px 24px;
-  max-width: 345px;
+  height: 100%;
+  border-radius: 16px;
+  background: var(--color-secondary);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  overflow: hidden;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.container:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 18px 34px rgba(4, 21, 45, 0.5);
+}
+
+.imageWrapper {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  background: var(--color-bg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
 }
 
 .image {
-  margin-bottom: 26px;
-  max-width: 298px;
-  max-height: 330px;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  padding: 24px;
+}
+
+.body {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  padding: 20px 22px 26px;
 }
 
 .title {
-  font-size: 25px;
-  font-weight: 700;
+  font-size: var(--fs-card-title);
+  font-weight: 600;
+  line-height: 1.35;
 }
 
 .description {
   margin-top: 10px;
-  font-size: 22px;
+  font-size: var(--fs-body);
+  line-height: 1.6;
+  font-family: var(--font-roboto);
   font-weight: 400;
-}
-
-.skills {
-  width: 100%;
-  margin-top: 14px;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  gap: 6px;
-  list-style: none;
-}
-
-.skill {
-  font-size: 25px;
-  font-weight: 400;
-  border-radius: 100px;
-  background: var(--color-dark);
-  padding: 2px 22px;
-}
-
-.skill:hover {
-  transform: scale(1.04);
-  transition: transform 0.3s ease-out;
-}
-
-.links {
-  width: 100%;
-  margin-top: 26px;
-  display: flex;
-  justify-content: space-around;
-}
-
-.link {
-  text-decoration: none;
-  color: var(--color-text);
-  font-size: 30px;
-  font-weight: 600;
-  border-radius: 100px;
-  background: var(--color-primary);
-  padding: 1px 22px;
-}
-
-.link:hover {
-  transform: scale(1.04);
-  transition: transform 0.3s ease-out;
+  opacity: 0.85;
 }

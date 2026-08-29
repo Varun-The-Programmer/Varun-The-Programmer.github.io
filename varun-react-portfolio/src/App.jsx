@@ -2,6 +2,7 @@ import styles from './App.module.css'
 import { About } from './components/About/About'
 import { Hero } from './components/Hero/Hero'
 import { Navbar } from './components/Navbar/Navbar'
+import { Skills } from './components/Skills/Skills'
 import { Experience } from './components/Experience/Experience'
 import { Awards } from './components/Awards/Awards'
 import { Extracurriculars } from './components/Extracurriculars/Extracurriculars'
@@ -15,10 +16,11 @@ function App() {
       <Navbar />
       <Hero />
       <About />
-      <Experience />
-      <Awards />
-      <Extracurriculars />
       <Projects />
+      <Skills />
+      <Experience />
+      <Extracurriculars />
+      <Awards />
       <Contact />
     </div>
   )

@@ -32,35 +32,11 @@
     "source": "https://github.com/Varun-The-Programmer/Tetris"
   },
   {
-    "title": "Sonar Scanner",
-    "imageSrc": "/assets/projects/sonarscanner.jpg",
-    "description": "This is a project made to learn how ultrasonic sensors work.",
-    "skills": ["Arduino", "Github", "C++"],
-    "demo": "https://drive.google.com/drive/folders/1ofGumUTRcT7u9K9duW3ogAPlYbpGmQCv?usp=drive_link",
-    "source": "https://github.com/Varun-The-Programmer/Sonar-Scanner"
-  },
-  {
-    "title": "Reaction Speed Game",
-    "imageSrc": "/assets/projects/reactionspeedgame.jpg",
-    "description": "This is a quick game I made using the ELEGOO UNO R3 Kit.",
-    "skills": ["Arduino", "Github", "C++"],
-    "demo": "https://drive.google.com/drive/folders/1IME8uF1ObyxNmPHWU5W1Xz1UyGPBs6Jb?usp=drive_link",
-    "source": "https://github.com/Varun-The-Programmer/Reaction-Speed-Game"
-  },
-  {
     "title": "Pomodoro Timer",
     "imageSrc": "/assets/projects/Pomodoro.png",
     "description": "This is a simple recreation of the Pomofocus.io app using Python and Pygame.",
     "skills": ["Python", "Pygame", "Github"],
     "demo": "https://drive.google.com/drive/folders/1TTIPah-8KVI1qylWOCE-K2_8vds2Jvz3?usp=sharing",
     "source": "https://github.com/Varun-The-Programmer/PomodoroTimer"
-  },
-  {
-    "title": "Ultrasonic Distance Measurer",
-    "imageSrc": "/assets/projects/ultrasonicdistancemeasurer.jpg",
-    "description": "This is a  modified version of my Sonar Scanner.",
-    "skills": ["Arduino", "Github", "C++"],
-    "demo": "https://drive.google.com/drive/folders/11-d38eTmHcSdMaUOrFDn_h6MYZUKzuTM?usp=sharing",
-    "source": "https://github.com/Varun-The-Programmer/Ultrasonic-Distance-Measurer"
   }
 ]

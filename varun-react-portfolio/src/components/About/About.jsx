@@ -15,27 +15,27 @@ export const About = () => {
       <li className={styles.aboutItem}>
         <img className={styles.infoItem} src="/assets/about/schoolIcon.png" alt="School Icon" />
         <div className={styles.aboutItemsText}>
-          <h3>High-school Student</h3>
+          <h3>Grade 12 Student</h3>
           <p className={styles.randomLine}>
-          I'm a high school student in Grade 10 at Holy Trinity Catholic High School.
+            Grade 12 student at Holy Trinity Catholic High School, planning to pursue Computer or Electrical Engineering. Active on Student Council as Secretary/Treasurer (and Grade 11 Rep last year) while helping start and run a couple of student clubs.
           </p>
         </div>
       </li>
       <li className={styles.aboutItem}>
         <img className={styles.infoItem} src="/assets/about/programmingIcon.png" alt="Programming Icon" />
         <div className={styles.aboutItemsText}>
-          <h3>Competitive Programmer</h3>
+          <h3>Developer & Builder</h3>
           <p>
-          I have experience coding many websites, games, and programs.
+          I love coding and tinkering with electronics, always curious to figure out how things work. Passionate about learning new technologies and building projects across both software and hardware.
           </p>
         </div>
       </li>
       <li className={styles.aboutItem}>
         <img className={styles.infoItem} src="/assets/about/techIcon.png" alt="Tech Icon" />
         <div className={styles.aboutItemsText}>
-          <h3>Tech Enthusiasist</h3>
+          <h3>Technology Enthusiast</h3>
           <p>
-          I love staying up to date with the newest technology.
+          I love staying up to date with the newest technology, whether it be new cellphones or self-driving cars. Some of my favourite channels are MrWhoseTheBoss and MKBHD!
           </p>
         </div>
       </li>
@@ -44,17 +44,9 @@ export const About = () => {
         <div className={styles.aboutItemsText}>
           <h3>Badminton Lover</h3>
           <p>
-          I love to play badminton and have won many awards for this game.
+          I love to play badminton during my free time. In the past, I have trained professionally and participated in amny compeititons. I have won a few and made a lot of new friends along the way!
           </p>
           
-        </div>
-      </li>
-      <li className={styles.aboutItem}>
-        <img className={styles.infoItem} src="/assets/about/readingIcon.png" alt="Reading Icon" />
-        <div className={styles.aboutItemsText}>
-          <h3>Avid Reader</h3>
-          <p>
-          I love reading books on physics and chemistry. I love fantasy and mystery novels.          </p>
         </div>
       </li>
     </ul>
